@@ -5,7 +5,7 @@ import Titulo from './components/Titulo/index.js';
 
 const App = () => 
 <View style={styles.container}>
-      <Titulo></Titulo>
+      <Titulo/>
       <Text>O bagui de cima é o título</Text>
       <StatusBar style="auto" />
  </View>;
