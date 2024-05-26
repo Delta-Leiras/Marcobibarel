@@ -4,7 +4,7 @@ import styles from "./styles.js";
 
 const Titulo = () =>
 <View style = {styles.container}>
-    <Text style = {styles.texto}>Marcobibarel</Text>
+    <Text style = {styles.texto}>Marcobel</Text>
 </View>
 ;
 
