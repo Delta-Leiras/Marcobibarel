@@ -8,7 +8,7 @@ const styles = StyleSheet.create
         flex: 1,
         backgroundColor: "#ffff00",
         //width: 100,
-        height: 10
+        //height: 10
     },
     
     texto:
