@@ -7,7 +7,7 @@ const styles = StyleSheet.create
     {
         //flex: 1,
         backgroundColor: "#ffff00",
-        width: "100%",
+        width: "60%",
         height: "10%"
     },
     
